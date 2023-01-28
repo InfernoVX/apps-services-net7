@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "7VxrBLn8BmW39b5Uh3rHAvyc4xv/ylTJvgADqwsKpW9doGFIEBVSYQOUFKVuNjsjkEsf7rHJbSdYX6m7g3h67Q==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\Fire8\\OneDrive\\Desktop\\Repos\\apps-services-net7\\vs4win\\Chapter01\\CodeAnalyzing\\CodeAnalyzing.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Fire8\\.nuget\\packages\\stylecop.analyzers\\1.2.0-beta.435\\stylecop.analyzers.1.2.0-beta.435.nupkg.sha512",
+    "C:\\Users\\Fire8\\.nuget\\packages\\stylecop.analyzers.unstable\\1.2.0.435\\stylecop.analyzers.unstable.1.2.0.435.nupkg.sha512"
+  ],
+  "logs": []
+}
