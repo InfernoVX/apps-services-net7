@@ -1,0 +1,53 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = browser
+build_property.RootNamespace = Northwind.BlazorWasm.Client
+build_property.RootNamespace = Northwind.BlazorWasm.Client
+build_property.ProjectDir = C:\Users\Fire8\OneDrive\Desktop\Repos\apps-services-net7\vs4win\Chapter16\Northwind.BlazorWasm\Client\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\Fire8\OneDrive\Desktop\Repos\apps-services-net7\vs4win\Chapter16\Northwind.BlazorWasm\Client
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/App.razor]
+build_metadata.AdditionalFiles.TargetPath = QXBwLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/Components/Alert.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xBbGVydC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/Components/DialogBox.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xEaWFsb2dCb3gucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/Components/NavMenu.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xOYXZNZW51LnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/Components/ProgressBar.razor]
+build_metadata.AdditionalFiles.TargetPath = Q29tcG9uZW50c1xQcm9ncmVzc0Jhci5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/MainLayout.razor]
+build_metadata.AdditionalFiles.TargetPath = TWFpbkxheW91dC5yYXpvcg==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/Pages/Employees.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbG95ZWVzLnJhem9y
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/Pages/Index.razor]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXgucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/Fire8/OneDrive/Desktop/Repos/apps-services-net7/vs4win/Chapter16/Northwind.BlazorWasm/Client/_Imports.razor]
+build_metadata.AdditionalFiles.TargetPath = X0ltcG9ydHMucmF6b3I=
+build_metadata.AdditionalFiles.CssScope = 
